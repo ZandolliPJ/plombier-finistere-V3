@@ -28,7 +28,7 @@ export default function Home() {
             Plombier & Électricien à Commana
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
-            Interventions rapides dans tout le Finistère (29) • Dépannage 7j/7 • Devis gratuit
+            Interventions rapide dans tout le Finistère (29) • Dépannage 7j/7 • Devis gratuit
           </p>
           <div className="flex flex-col md:flex-row gap-4 justify-center">
             <a href="tel:+33 06-98-35-08-71" className="bg-white text-primary px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition">
