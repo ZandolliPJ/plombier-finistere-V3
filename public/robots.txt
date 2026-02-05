@@ -4,7 +4,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://www.boostezvotrerenovation.fr/sitemap.xml
+Sitemap: https://www.artisant.boostezvotrerenovation.fr/sitemap.xml
 
 # Optimisation pour Google
 User-agent: Googlebot

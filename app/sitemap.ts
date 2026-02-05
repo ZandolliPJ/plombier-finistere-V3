@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://www.boostezvotrerenovation.fr' // À remplacer par votre vraie URL
+  const baseUrl = 'https://www.artisant.boostezvotrerenovation.fr' // À remplacer par votre vraie URL
 
   return [
     {

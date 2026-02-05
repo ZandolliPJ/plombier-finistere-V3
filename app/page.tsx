@@ -15,7 +15,7 @@ export default function Home() {
             <Link href="#zones" className="hover:text-primary transition">Zones d'intervention</Link>
             <Link href="#contact" className="hover:text-primary transition">Contact</Link>
           </div>
-          <a href="tel:+33 06-98-35-08-71" className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-secondary transition font-semibold">
+          <a href="tel: 06-98-35-08-71" className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-secondary transition font-semibold">
             📞 Appelez-nous
           </a>
         </nav>
@@ -31,7 +31,7 @@ export default function Home() {
             Interventions rapide dans tout le Finistère (29) • Dépannage 7j/7 • Devis gratuit
           </p>
           <div className="flex flex-col md:flex-row gap-4 justify-center">
-            <a href="tel:+33 06-98-35-08-71" className="bg-white text-primary px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition">
+            <a href="tel: 06-98-35-08-71" className="bg-white text-primary px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition">
               🚨 Urgence 24/7
             </a>
             <a href="#contact" className="bg-transparent border-2 border-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-white hover:text-primary transition">
@@ -126,7 +126,7 @@ export default function Home() {
                   </li>
                 </ul>
                 <div className="mt-6">
-                  <a href="tel:+33 06-98-35-08-71" className="block text-center bg-orange-600 text-white px-6 py-3 rounded-lg hover:bg-orange-700 transition font-semibold">
+                  <a href="tel: 06-98-35-08-71" className="block text-center bg-orange-600 text-white px-6 py-3 rounded-lg hover:bg-orange-700 transition font-semibold">
                     Appeler pour l'électricité
                   </a>
                 </div>

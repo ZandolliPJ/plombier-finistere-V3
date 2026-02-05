@@ -44,8 +44,8 @@ export default function RootLayout({
               "@type": "Plumber",
               "name": "Plomberie Électricité Finistère",
               "description": "Services de plomberie et électricité à Commana et dans tout le Finistère",
-              "image": "https://votre-site.com/logo.jpg",
-              "telephone": "+33-06-98-35-08-71",
+              "image": "https://artisant.boostezvotrerenovation.fr/logo.jpg",
+              "telephone": " 06-98-35-08-71",
               "email": "flason.lucien29450@gmail.com",
               "address": {
                 "@type": "PostalAddress",
@@ -60,7 +60,7 @@ export default function RootLayout({
                 "latitude": 48.413057,
                 "longitude": -3.955789
               },
-              "url": "https://www.boostezvotrerenovation.fr",
+              "url": "https://www.artisant.boostezvotrerenovation.fr",
               "priceRange": "€€",
               "openingHoursSpecification": [
                 {
