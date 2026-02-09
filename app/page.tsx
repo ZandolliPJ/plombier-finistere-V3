@@ -55,7 +55,13 @@ export default function Home() {
               <div className="relative h-64 bg-gradient-to-br from-blue-500 to-blue-700">
                 <div className="absolute inset-0 flex items-center justify-center">
                   <div className="text-white text-center">
-                    <div className="text-8xl mb-4">🔧</div>
+                    <div className="mb-4">
+                      <img
+                        src="/images/service-plomberie.jpg"
+                        alt="Service de plomberie professionnel"
+                        className="w-24 h-24 md:w-32 md:h-32 lg:w-40 lg:h-40 object-cover rounded-lg shadow-lg"
+                      />
+                    </div>
                     <h3 className="text-3xl font-bold">PLOMBERIE</h3>
                   </div>
                 </div>
@@ -97,7 +103,13 @@ export default function Home() {
               <div className="relative h-64 bg-gradient-to-br from-yellow-500 to-orange-600">
                 <div className="absolute inset-0 flex items-center justify-center">
                   <div className="text-white text-center">
-                    <div className="text-8xl mb-4">⚡</div>
+                    <div className="mb-4">
+                      <img
+                        src="/images/service-electricite.jpg"
+                        alt="Service d'électricité professionnel"
+                        className="w-24 h-24 md:w-32 md:h-32 lg:w-40 lg:h-40 object-cover rounded-lg shadow-lg"
+                      />
+                    </div>
                     <h3 className="text-3xl font-bold">ELECTRICITÉ</h3>
                   </div>
                 </div>
