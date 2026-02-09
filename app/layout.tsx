@@ -2,12 +2,12 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Plombier Électricien Commana (29450) - Interventions Rapides Finistère',
+  title: 'Plombier Electricien  - Interventions Rapides Finistère',
   description: 'Plombier et électricien professionnel à Commana et dans tout le Finistère (29). Dépannage urgent 7j/7, installation, rénovation. Devis gratuit.',
   keywords: 'plombier Commana, électricien Commana, plombier Finistère, électricien Finistère, dépannage plomberie 29, dépannage électricité 29, plombier 29450',
   authors: [{ name: 'Plomberie Électricité Finistère' }],
   openGraph: {
-    title: 'Plombier Électricien à Commana (29450) - Finistère',
+    title: 'Plombier Electricien - Finistère',
     description: 'Services de plomberie et électricité professionnels dans le Finistère. Interventions rapides à Commana et alentours.',
     type: 'website',
     locale: 'fr_FR',

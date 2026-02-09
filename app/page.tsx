@@ -1,5 +1,6 @@
-import Image from 'next/image'
-import Link from 'next/link'
+"use client";
+import Image from 'next/image';
+import Link from 'next/link';
 
 export default function Home() {
   return (
@@ -25,7 +26,7 @@ export default function Home() {
       <section className="bg-gradient-to-br from-blue-600 to-blue-800 text-white py-20">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
-            Plombier & Électricien à Commana
+            Plombier & Electricien Finistere
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
             Interventions rapide dans tout le Finistère (29) • Dépannage 7j/7 • Devis gratuit
@@ -84,7 +85,7 @@ export default function Home() {
                   </li>
                 </ul>
                 <div className="mt-6">
-                  <a href="tel:+33 06-98-35-08-71" className="block text-center bg-primary text-white px-6 py-3 rounded-lg hover:bg-secondary transition font-semibold">
+                  <a href="tel: 06-98-35-08-71" className="block text-center bg-primary text-white px-6 py-3 rounded-lg hover:bg-secondary transition font-semibold">
                     Appeler pour la plomberie
                   </a>
                 </div>
@@ -97,12 +98,12 @@ export default function Home() {
                 <div className="absolute inset-0 flex items-center justify-center">
                   <div className="text-white text-center">
                     <div className="text-8xl mb-4">⚡</div>
-                    <h3 className="text-3xl font-bold">ÉLECTRICITÉ</h3>
+                    <h3 className="text-3xl font-bold">ELECTRICITÉ</h3>
                   </div>
                 </div>
               </div>
               <div className="p-6">
-                <h3 className="text-2xl font-bold mb-4 text-orange-600">Services d'Électricité</h3>
+                <h3 className="text-2xl font-bold mb-4 text-orange-600">Services d'Electricité</h3>
                 <ul className="space-y-3 text-gray-700">
                   <li className="flex items-start">
                     <span className="text-orange-600 mr-2">✓</span>
@@ -202,17 +203,17 @@ export default function Home() {
       <section id="contact" className="py-16 bg-primary text-white">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-8">
-            Besoin d'un plombier ou électricien à Commana ?
+            Besoin d'un plombier ou électricien dans le finistere ?
           </h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
             Contactez-nous maintenant pour un devis gratuit ou une intervention d'urgence
           </p>
 
           <div className="flex flex-col md:flex-row gap-6 justify-center items-center mb-12">
-            <a href="tel:+33 06-98-35-08-71" className="bg-white text-primary px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition flex items-center gap-2">
+            <a href="tel: 06-98-35-08-71" className="bg-white text-primary px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition flex items-center gap-2">
               📞 06-98-35-08-71
             </a>
-            <a href="mailto:contact@votre-site.com" className="bg-white text-primary px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition flex items-center gap-2">
+            <a href="mailto:flason.lucien29450@gmail.com" className="bg-white text-primary px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition flex items-center gap-2">
               ✉️ flason.lucien29450@gmail.com
             </a>
           </div>
@@ -231,7 +232,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-8">
         <div className="container mx-auto px-4 text-center">
-          <p className="mb-4">© 2024 Plomberie Électricité Finistère - Tous droits réservés</p>
+          <p className="mb-4">© 2026 Plomberie Électricité Finistère - Tous droits réservés</p>
           <p className="text-gray-400 text-sm">
             Plombier et électricien à Commana (29450) et dans tout le Finistère
           </p>
