@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Plombier Electricien  - Interventions Rapides Finistère',
-  description: 'Plombier et électricien professionnel à Commana et dans tout le Finistère (29). Dépannage urgent 7j/7, installation, rénovation. Devis gratuit.',
+  description: 'Plombier et électricien professionnel à Commana et dans tout le Finistère (29). Dépannage urgent 6j/7, installation, rénovation. Devis gratuit.',
   keywords: 'plombier Commana, électricien Commana, plombier Finistère, électricien Finistère, dépannage plomberie 29, dépannage électricité 29, plombier 29450',
   authors: [{ name: 'Plomberie Électricité Finistère' }],
   openGraph: {
@@ -89,7 +89,7 @@ export default function RootLayout({
                     "itemOffered": {
                       "@type": "Service",
                       "name": "Dépannage plomberie",
-                      "description": "Interventions urgentes en plomberie 7j/7"
+                      "description": "Interventions urgentes en plomberie 6j/7"
                     }
                   },
                   {
@@ -97,7 +97,7 @@ export default function RootLayout({
                     "itemOffered": {
                       "@type": "Service",
                       "name": "Dépannage électricité",
-                      "description": "Interventions urgentes en électricité 7j/7"
+                      "description": "Interventions urgentes en électricité 6j/7"
                     }
                   }
                 ]
