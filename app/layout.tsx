@@ -7,7 +7,6 @@ import './globals.css'
 export const metadata: Metadata = {
   // 🔧 CORRECTION : Définir l'URL de base du site
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'),
-
   // ============================================
   // TITRE OPTIMISÉ SEO
   // ============================================

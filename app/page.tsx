@@ -225,8 +225,20 @@ export default function Home() {
             <a href="tel: 06-98-35-08-71" className="bg-white text-primary px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition flex items-center gap-2">
               📞 06-98-35-08-71
             </a>
-            <a href="mailto:flason.lucien29450@gmail.com" className="bg-white text-primary px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition flex items-center gap-2">
-              ✉️ flason.lucien29450@gmail.com
+            <a
+              href="mailto:flason.lucien29450@gmail.com?subject=Demande de devis&body=Bonjour,%0D%0A"
+              className="md:hidden bg-primary text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-primary-dark transition flex items-center justify-center gap-2"
+            >
+              ✉️ Envoyer un email
+            </a>
+
+            <a
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=flason.lucien29450@gmail.com&su=Demande de devis"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hidden md:flex bg-primary text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-primary-dark transition items-center justify-center gap-2"
+            >
+              ✉️ Écrire un email
             </a>
           </div>
 
